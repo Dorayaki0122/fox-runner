@@ -1,8 +1,9 @@
 # Fox Runner
 
-[![MakeCode Arcade Release](https://github.com/Dorayaki0122/fox-runner/actions/workflows/makecode-release.yml/badge.svg?branch=master)](https://github.com/Dorayaki0122/fox-runner/actions)
+[![MakeCode Arcade Release](https://github.com/Dorayaki0122/fox-runner/actions/workflows/makecode-release.yml/badge.svg?branch=master)](https://github.com/Dorayaki0122/fox-runner/actions) <br>
+[![Despliegue web](https://github.com/Dorayaki0122/fox-runner/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Dorayaki0122/fox-runner/actions/workflows/pages/pages-build-deployment)
 
-Juego educativo de iniciación a la programación desarrollado en **Microsoft MakeCode Arcade** con **TypeScript** y programación por bloques, diseñado para alumnado de **4.º de ESO**.
+Juego educativo de plataformas para la iniciación a la programación desarrollado en **Microsoft MakeCode Arcade** con **TypeScript** y programación por bloques, diseñado para alumnado de **4.º de ESO**.
 
 > **[Abrir versión publicada en GitHub Pages](https://dorayaki0122.github.io/fox-runner/)**
 
