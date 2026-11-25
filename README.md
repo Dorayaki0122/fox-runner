@@ -66,6 +66,6 @@ A lo largo de **8 niveles de dificultad progresiva** se trabajan:
 
 Este juego fue realizado por estas 3 colaboradores para la asignatura "Lenguajes y Paradigmas de la Programación":
 
-* Laura Álvarez Zamora (@Dorayaki0122)
-* Pablo Fernández Herrera (@alu0100817515)
-* Emilio González Díaz (@alu0101316734)
+* Laura Álvarez Zamora ([@Dorayaki0122](https://github.com/Dorayaki0122))
+* Pablo Fernández Herrera ([@alu0100817515](https://github.com/alu0100817515))
+* Emilio González Díaz ([@alu0101316734](https://github.com/alu0101316734))
